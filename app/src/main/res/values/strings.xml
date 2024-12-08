@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToggleButtonEjercicio</string>
+    <string name="tb_enable">Activado</string>
+    <string name="tb_unenable">Desactivado</string>
+</resources>
